@@ -1,4 +1,4 @@
-# cs50
+# cc50
 CC50: Introdução à Ciência da Computação<br>
 David J. Malan, Professor na Universidade de Harvard
 
